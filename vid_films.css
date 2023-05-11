@@ -1,0 +1,113 @@
+body{
+	/*background-color: #c1c1c1;*/
+    background-image: url(images_bulles/fond_vid_eng.png);
+    background-size: 100%;
+}
+
+#back2{
+    width: 60%;
+    height: auto;
+    margin: auto;
+    margin-top: 3%;
+    text-align: center;
+    background: rgb(255, 255, 255, 0.8);
+    border-radius: 10%;
+}
+
+#link1{
+    position: fixed;
+    color: black;
+    margin: 0px;
+    width: 200px;
+    height: 70px;
+    top: 0%;
+}
+
+#link2{
+    width: 40%;
+    height: auto;
+    margin: auto;
+    color: black;
+}
+
+h1{
+    font-size: 48pt;
+}
+
+h2{
+    font-size: xx-large;
+}
+
+h3{
+    text-align: center;
+    line-height: 35px;
+    font-size: xx-large;
+}
+
+#temph3{
+    text-align: center;
+    line-height: 75%;
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+p{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+p1{
+    font-size: xxx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+p2{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+#big_th_us{
+    display: block;
+    border-radius: 5%;
+    width: 90%;
+    height: 450px;
+    margin: auto;
+}
+
+#simone{
+    display: block;
+    border-radius: 5%;
+    width: 90%;
+    height: 450px;
+    margin: auto;
+}
+
+#animal{
+    display: block;
+    border-radius: 5%;
+    width: 90%;
+    height: 450px;
+    margin: auto;
+}
+
+#hors_nor{
+    display: block;
+    border-radius: 5%;
+    width: 90%;
+    height: 450px;
+    margin: auto;
+}
+
+#for2{
+    /*background: rgba(255, 234, 18, 0.7);*/
+    width: 90%;
+    height: auto;
+    margin: auto;
+    /*border-radius: 5%;*/
+}

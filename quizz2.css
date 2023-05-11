@@ -1,0 +1,111 @@
+body{
+	/*background-color: #c1c1c1;*/
+    background-image: url(images_bulles/fond_quizz2.png);
+    background-size: 100%;
+}
+
+#logistic1{
+    display: flex;
+}
+
+#back2{
+    background: rgb(255, 255, 255, 0.8);
+    width: 60%;
+    height: auto;
+    margin-left: 20%;
+    margin-top: 5%;
+    text-align: center;
+    border-radius: 15%;
+}
+
+#back3{
+    position: fixed;
+    background: rgb(255, 255, 255, 0.8);
+    width: 15%;
+    height: auto;
+    margin: auto;
+    margin-top: 5%;
+    text-align: center;
+    border-radius: 15%;
+    top: 25%;
+}
+
+#for2{
+    width: 70%;
+    height: auto;
+    margin: auto;
+    text-align: left;
+}
+
+#for2_1{
+    width: 90%;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    border-radius: 15%;
+}
+
+#for2_2{
+    width: 90%;
+    height: auto;
+    margin: auto;
+    text-align: left;
+    border-radius: 15%;
+}
+
+#link1{
+    position: fixed;
+    color: black;
+    margin: 0px;
+    width: 200px;
+    height: 70px;
+    top: 0%;
+}
+
+h3{
+    text-align: center;
+    line-height: 35px;
+    font-size: xx-large;
+}
+
+#temph3{
+    text-align: center;
+    line-height: 75%;
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+a{
+    text-decoration: none;
+}
+
+p{
+    font-size: xxx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p1{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p2{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 35px;
+}
+
+B{
+    color: #e7e767;
+}
+
+B1{
+    font-weight: bold;
+}
+
+#nbr{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-radius: 50%;
+}
